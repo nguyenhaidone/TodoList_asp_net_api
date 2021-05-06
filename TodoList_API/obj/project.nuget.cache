@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RQj6PQeJY8wVdyyDpF6YEedm24dLPoow1uX0L/m2gy6a4yWmoKJ/sdkv4YXIhol0qcxGcU8IBcwRM6xhOyjHpA==",
+  "dgSpecHash": "BEuj0y+O2NWaQgIp06gWO21x177vVoEz+4h+sxtmFL3gRF4HRhQuhugKrS1NgP6YXk+jy4W0kh00qieq9vw+rA==",
   "success": true,
-  "projectFilePath": "D:\\Prj C#\\TodoList_API\\TodoList_API.csproj",
+  "projectFilePath": "E:\\TodoListReactJS\\TodoList_asp_net_api\\TodoList_API\\TodoList_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.5\\microsoft.data.sqlite.core.5.0.5.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

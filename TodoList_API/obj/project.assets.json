@@ -1124,11 +1124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prj C#\\TodoList_API\\TodoList_API.csproj",
+      "projectUniqueName": "E:\\TodoListReactJS\\TodoList_asp_net_api\\TodoList_API\\TodoList_API.csproj",
       "projectName": "TodoList_API",
-      "projectPath": "D:\\Prj C#\\TodoList_API\\TodoList_API.csproj",
+      "projectPath": "E:\\TodoListReactJS\\TodoList_asp_net_api\\TodoList_API\\TodoList_API.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Prj C#\\TodoList_API\\obj\\",
+      "outputPath": "E:\\TodoListReactJS\\TodoList_asp_net_api\\TodoList_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

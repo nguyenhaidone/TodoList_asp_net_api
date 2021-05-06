@@ -40,7 +40,7 @@ namespace TodoList_API.Controllers
             return CreatedAtAction(nameof(GetTodoLists), new { id = newTask.Id }, newTask);
         }
 
-        [HttpPut]
+        [HttpPut("{id}")]
         public async Task<ActionResult> PutTask(int id,[FromBody] TodoList todoList)
         {
             if(id != todoList.Id)
